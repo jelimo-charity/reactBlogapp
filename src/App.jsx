@@ -2,14 +2,14 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import Main from './components/main'
+import Home from './components/Home'
 
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Main />
+      <Home />
       <Footer />
 
       
